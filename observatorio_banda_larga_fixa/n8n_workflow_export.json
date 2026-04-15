@@ -1,0 +1,10 @@
+{
+  "name": "Observatorio - Banda Larga Fixa (ETL + API + QA)",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {},
+  "id": "observatorio_blf_etl_api_qa",
+  "pinData": {},
+  "versionId": "1"
+}

@@ -1,0 +1,23 @@
+﻿# Build and binaries
+*.exe
+*.dll
+*.dcu
+*.identcache
+*.local
+
+# Archives and databases
+*.zip
+*.7z
+*.FDB
+*.fdb
+
+# Delphi build folders
+Win32/
+Win64/
+__history/
+
+# Environment/dependencies
+.env
+.venv/
+venv/
+node_modules/
